@@ -15,4 +15,5 @@
 /usr    系统用户工具和程序                     /src  内核源码
 /srv    服务启动后需要提取的数据
  nohup(no hangup):不挂断运行命令,当账户退出或终端关闭时,程序仍然运行,而且该作业的所有输出被重定向到nohup.out的文件中。
+ command>xx.text 将文件重定向输出到xx.text
 
