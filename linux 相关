@@ -17,4 +17,5 @@
  nohup(no hangup):不挂断运行命令,当账户退出或终端关闭时,程序仍然运行,而且该作业的所有输出被重定向到nohup.out的文件中。
  command>xx.text 将文件重定向输出到xx.text
  rz上传文件给linux服务器，sz从linux服务器上下载文件到本地；
+ tar -czvf  xx.tar.gz  xx      linux下打包命令
 
